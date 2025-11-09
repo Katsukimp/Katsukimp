@@ -51,6 +51,3 @@ Evoluir como **Engenheiro de Software** com foco em **resiliência, mensageria e
 💻 [GitHub](https://github.com/Katsukimp)
 
 ---
-
----
-[![](https://visitcount.itsvg.in/api?id=Katsukimp&icon=0&color=0)](https://visitcount.itsvg.in)
