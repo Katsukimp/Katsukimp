@@ -23,9 +23,9 @@ Atualmente trabalho em uma instituição financeira, desenvolvendo soluções co
 | Área | Tecnologias |
 |------|--------------|
 | 💻 Backend | C#, .NET 8, ASP.NET Core, EF Core |
-| ⚡ Mensageria | Kafka, RabbitMQ, MassTransit |
-| 🧱 Arquitetura | Clean Architecture, DDD, Sagas, CQRS |
-| 🧪 Testes | xUnit, Moq, TestContainers |
+| ⚡ Mensageria | Kafka, RabbitMQ, MassTransit, EventHub, SQS |
+| 🧱 Arquitetura | Clean Architecture, DDD, Sagas, CQRS, EDA, Hexagonal etc... |
+| 🧪 Testes | xUnit, Moq, TestContainers, Fixture, ArchUnit |
 | 🐳 DevOps / Cloud | Docker, Azure, Dynatrace, K8S, AKS, Terraform etc... |
 | 📊 Observabilidade | Metrics, HealthChecks, Logging, Event Sourcing |
 | 🔐 Segurança | Criptografia, análise de tráfego e injeção controlada |
