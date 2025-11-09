@@ -1,18 +1,18 @@
-<table style="border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0;">
+<table border="0" style="border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0; border: none;">
   <tr>
-    <td style="padding:0; margin:0; vertical-align:top;">
+    <td style="padding:0; margin:0; vertical-align:top; border:none;">
       <img
         src="https://github-readme-stats.vercel.app/api?username=Katsukimp&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true"
         alt="GitHub Stats"
-        width="320" height="150"
+        width="420" height="150"
         style="display:block; margin:0; padding:0; border:0;"
       />
     </td>
-    <td style="padding:0; margin:0; vertical-align:top;">
+    <td style="padding:0; margin:0; vertical-align:top; border:none;">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katsukimp&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Top Languages"
-        width="320" height="150"
+        width="420" height="150"
         style="display:block; margin:0; padding:0; border:0;"
       />
     </td>
