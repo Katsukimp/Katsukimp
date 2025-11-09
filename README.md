@@ -2,7 +2,7 @@
   <img 
         src="https://github-readme-stats.vercel.app/api?username=Katsukimp&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true" 
         height="150" width="420" 
-        style="max-width: 420px; margin-right: 10px;" 
+        style="max-width: 420px;" 
         alt="GitHub Stats"
       />
   <img 
