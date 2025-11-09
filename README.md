@@ -1,4 +1,4 @@
-<div align="left">
+<div align-items="row">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Katsukimp&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true" 
     height="150" width="420" 
