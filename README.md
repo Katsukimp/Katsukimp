@@ -2,12 +2,12 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=Katsukimp&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&card_width=430"
     alt="GitHub Stats"
-    width="430"
+    width="340"
     style="display:inline-block;margin:0;padding:0;" /><!--
 --><img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katsukimp&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&card_width=430"
     alt="Top Languages"
-    width="430"
+    width="340"
     style="display:inline-block;margin:0;padding:0;" />
 </p>
 # 👋 Olá, eu sou o Eduardo Katsuki!
