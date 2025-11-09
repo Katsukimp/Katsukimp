@@ -4,7 +4,7 @@
       <img
         src="https://github-readme-stats.vercel.app/api?username=Katsukimp&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true"
         alt="GitHub Stats"
-        width="420" height="150"
+        width="420" height="100"
         style="display:block; margin:0; padding:0; border:0;"
       />
     </td>
