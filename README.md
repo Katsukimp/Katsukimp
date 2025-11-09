@@ -1,13 +1,11 @@
 <div align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Katsukimp&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true" 
-    height="150" width="420" 
-    style="vertical-align: middle;" 
+    height="150" width="420"
     alt="GitHub Stats"
   /><img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katsukimp&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
-    height="150" width="340" 
-    style="vertical-align: middle;" 
+    height="150" width="420"
     alt="Top Languages"
   />
 </div>
