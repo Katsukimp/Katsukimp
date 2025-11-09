@@ -26,7 +26,7 @@ Atualmente trabalho em uma instituição financeira, desenvolvendo soluções co
 | ⚡ Mensageria | Kafka, RabbitMQ, MassTransit |
 | 🧱 Arquitetura | Clean Architecture, DDD, Sagas, CQRS |
 | 🧪 Testes | xUnit, Moq, TestContainers |
-| 🐳 DevOps / Cloud | Docker, Azure, Dynatrace |
+| 🐳 DevOps / Cloud | Docker, Azure, Dynatrace, K8S, AKS, Terraform etc... |
 | 📊 Observabilidade | Metrics, HealthChecks, Logging, Event Sourcing |
 | 🔐 Segurança | Criptografia, análise de tráfego e injeção controlada |
 
@@ -47,7 +47,7 @@ Evoluir como **Engenheiro de Software** com foco em **resiliência, mensageria e
 
 ### 🌐 Conecte-se comigo!
 📍 Brasil  
-💼 [LinkedIn]([https://www.linkedin.com/in/eduardokatsuki](https://www.linkedin.com/in/eduardo-katsuki-matsunaga-marques-9036a6209/))  
+💼 [LinkedIn](https://www.linkedin.com/in/eduardo-katsuki-matsunaga-marques-9036a6209/)  
 💻 [GitHub](https://github.com/Katsukimp)
 
 ---
