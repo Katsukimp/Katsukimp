@@ -1,13 +1,15 @@
-<div style="display:flex;flex-direction:row;gap:0;align-items:flex-start;margin:0;padding:0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Katsukimp&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&card_width=420"
-       alt="GitHub Stats"
-       width="340"
-       style="margin:0;padding:0;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katsukimp&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=420"
-       alt="Top Languages"
-       width="340"
-       style="margin:0;padding:0;" />
-</div>
+<p align="left" style="display:inline-block;font-size:0;line-height:0;margin:0;padding:0;">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Katsukimp&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&card_width=430"
+    alt="GitHub Stats"
+    width="430"
+    style="display:inline-block;margin:0;padding:0;" /><!--
+--><img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katsukimp&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&card_width=430"
+    alt="Top Languages"
+    width="430"
+    style="display:inline-block;margin:0;padding:0;" />
+</p>
 # 👋 Olá, eu sou o Eduardo Katsuki!
 
 Sou **Desenvolvedor .NET** apaixonado por arquitetura de software, mensageria e sistemas distribuídos.  
