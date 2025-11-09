@@ -1,3 +1,8 @@
+### 👋 Olá, eu sou o Eduardo Katsuki!
+
+Sou **Desenvolvedor .NET** apaixonado por arquitetura de software, mensageria e sistemas distribuídos.  
+Atualmente trabalho em uma instituição financeira, desenvolvendo soluções com **C#**, **.NET 8**, **Kafka** e **RabbitMQ**.
+
 <p align="left" style="font-size:0;line-height:0;margin:0;padding:0;">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Katsukimp&theme=aura_dark&hide_border=false&count_private=true&show_icons=true&card_width=420"
@@ -11,13 +16,8 @@
     width="420"
     style="display:inline-block;margin:0;padding:0;" />
 </p>
-# 👋 Olá, eu sou o Eduardo Katsuki!
-
-Sou **Desenvolvedor .NET** apaixonado por arquitetura de software, mensageria e sistemas distribuídos.  
-Atualmente trabalho em uma instituição financeira, desenvolvendo soluções com **C#**, **.NET 8**, **Kafka** e **RabbitMQ**.
 
 ---
-
 ### 🧠 Sobre mim
 
 - 💼 Desenvolvedor .NET com experiência em **microsserviços**, **mensageria** e **padrões de resiliência**  
