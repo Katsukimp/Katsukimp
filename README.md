@@ -2,7 +2,7 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=Katsukimp&theme=aura_dark&hide_border=false&count_private=true&show_icons=true&card_width=420"
     alt="GitHub Stats"
-    width="340"
+    width="380"
     style="display:inline-block;margin:0;padding:0;" /><!--
 --><img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katsukimp&theme=aura_dark&hide_border=false&count_private=true&card_width=420"
