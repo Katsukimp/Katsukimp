@@ -1,14 +1,8 @@
-<p align="left" style="display:inline-block;font-size:0;line-height:0;margin:0;padding:0;">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Katsukimp&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&card_width=430"
-    alt="GitHub Stats"
-    width="340"
-    style="display:inline-block;margin:0;padding:0;" /><!--
---><img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katsukimp&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&card_width=430"
-    alt="Top Languages"
-    width="340"
-    style="display:inline-block;margin:0;padding:0;" />
+<p align="left" style="font-size:0;line-height:0;margin:0;padding:0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Katsukimp&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&card_width=430"
+       alt="GitHub Stats" width="430" height="170" style="margin:0;padding:0;display:inline-block;object-fit:cover;" /><!--
+--><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katsukimp&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&card_width=430"
+       alt="Top Languages" width="430" height="170" style="margin:0;padding:0;display:inline-block;object-fit:cover;" />
 </p>
 # 👋 Olá, eu sou o Eduardo Katsuki!
 
