@@ -1,23 +1,17 @@
-<table border="0" style="border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0; border: none;">
-  <tr>
-    <td style="padding:0; margin:0; vertical-align:top; border:none;">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Katsukimp&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true"
-        alt="GitHub Stats"
-        width="420" height="150"
-        style="display:block; margin:0; padding:0; border:0;"
-      />
-    </td>
-    <td style="padding:0; margin:0; vertical-align:top; border:none;">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katsukimp&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Top Languages"
-        width="420" height="150"
-        style="display:block; margin:0; padding:0; border:0;"
-      />
-    </td>
-  </tr>
-</table>
+<div align="left" style="display:inline-block; font-size:0; line-height:0; margin:0; padding:0;">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Katsukimp&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&card_width=420"
+    alt="GitHub Stats"
+    width="420" height="150"
+    style="display:inline-block; margin:0; padding:0; border:0;"
+  /><!--
+--><img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katsukimp&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=420"
+    alt="Top Languages"
+    width="420" height="150"
+    style="display:inline-block; margin:0; padding:0; border:0;"
+  />
+</div>
 # 👋 Olá, eu sou o Eduardo Katsuki!
 
 Sou **Desenvolvedor .NET** apaixonado por arquitetura de software, mensageria e sistemas distribuídos.  
