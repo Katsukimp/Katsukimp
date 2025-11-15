@@ -58,6 +58,5 @@ Evoluir como **Engenheiro de Software** com foco em **resiliência, mensageria e
 ### 🌐 Conecte-se comigo!
 📍 Brasil  
 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-katsuki-matsunaga-marques-9036a6209/)  
-💻 [GitHub](https://github.com/Katsukimp)
 
 ---
